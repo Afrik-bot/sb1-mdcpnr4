@@ -1,0 +1,28 @@
+{
+  "project_info": {
+    "project_number": "443905556466",
+    "project_id": "tam-tam-web",
+    "storage_bucket": "tam-tam-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443905556466:android:fffa3ab71acf1fb94ff56b",
+        "android_client_info": {
+          "package_name": "com.tamtam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1XDQo-9rhPmN14dBRCqtY9XivBoAINiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ]
+}
